@@ -1,0 +1,10 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple Node.js app with an output test",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  }
+}
